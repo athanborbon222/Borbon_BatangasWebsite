@@ -1,0 +1,168 @@
+body{
+    background-color: rgb(207, 207, 207);
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    background-color: rgb(51, 207, 160);
+    box-shadow: 0px 0px 3px 2px black;
+}
+
+.logo{
+    box-shadow: 0px 0px 3px 2px black;
+}
+
+
+.nav-item{
+    padding: 10px;
+    border-radius: 15px 15px;
+
+    font-size: x-large;
+}
+
+.nav-item:hover{
+    background-color: rgba(245, 245, 245, 0.352);
+    
+}
+
+ .banner{
+    margin-top: 50px;
+    width: 100%;
+    height: 800px;
+
+    box-shadow: 0px 0px 3px 2px black;
+}
+
+
+
+.indexImage{
+    box-shadow: 0px 0px 3px 2px black;
+    border-radius: 20px 20px;
+}
+
+.indexContext{
+    font-size: x-large;
+}
+
+.index-gallery{
+    background-color: rgb(252, 205, 97);
+    box-shadow: 0px 0px 3px 2px black;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    background-color: rgb(51, 207, 160);
+
+    box-shadow: 0px 0px 2px 1px black;
+    text-align: left;
+    
+}
+
+.fa-brands{
+    font-size: xx-large;
+    margin: 3px auto;
+    padding: 5px;
+
+    color: rgb(252, 205, 97);
+    text-shadow: 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black;
+}
+
+.footertxt{
+    font-size: x-large;
+    text-shadow: 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black;
+}
+
+    /* index css code */
+
+.page3Cont1{
+margin-top: 80px;
+padding-top: 30px;
+}
+
+.page3Heading{
+    margin-top: 200px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color: rgb(102, 102, 102);
+    text-shadow: 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+.page3Image{
+    box-shadow: 0px 0px 3px 2px black;
+    border-radius: 10px 25px;
+}
+
+.page3ImageHeading{
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page3ContentTxt{
+    font-size: x-large;
+}
+
+
+.page3Cont2{
+    margin-top: 50px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.page3Card{
+    box-shadow: 0px 0px 3px 2px rgb(9, 9, 9);
+}
+
+.page3Card .card-body{
+  background-color: rgb(51, 207, 160);  
+}
+
+.page3Cont3{
+    padding-top: 10px;
+    padding-bottom: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(252, 205, 97);
+    box-shadow: 0px 0px 3px 2px black;
+}
+
+.page3Heading2{
+    color: rgb(102, 102, 102);
+    text-shadow: 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0);
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.card-text-header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bolder;
+    text-shadow: 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0), 2px 2px 0 rgb(0, 0, 0);
+    color: rgb(252, 205, 97);
+}
+
+
+/* culturepage */
+.Imgculture{
+    border-radius: 100px 65px;
+}
+
+.cultureCards{
+    border-radius: 50px 65px;
+    box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.655);
+}
+
+
+/* about */
+.aboutImage{
+    width: 800px;
+    height: 700px;
+    box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.655);
+    border-radius: 200px 65px;
+}
